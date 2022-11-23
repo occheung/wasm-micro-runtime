@@ -16,7 +16,7 @@
 #include "connection_native_api.h"
 #include "display_indev.h"
 
-#include <zephyr.h>
+#include <zephyr/zephyr.h>
 #include <drivers/uart.h>
 #include <device.h>
 

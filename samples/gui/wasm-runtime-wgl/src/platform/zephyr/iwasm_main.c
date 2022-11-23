@@ -31,7 +31,7 @@ xpt2046_init(void);
 extern void
 wgl_init();
 
-#include <zephyr.h>
+#include <zephyr/zephyr.h>
 #include <drivers/uart.h>
 #include <device.h>
 

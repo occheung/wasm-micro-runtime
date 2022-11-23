@@ -6,8 +6,8 @@
 #include "app_manager.h"
 #include "bh_platform.h"
 #include <autoconf.h>
-#include <zephyr.h>
-#include <kernel.h>
+#include <zephyr/zephyr.h>
+#include <zephyr/kernel.h>
 #if 0
 #include <sigverify.h>
 #endif

@@ -7,7 +7,7 @@
 #define ZEPHYR_DRIVERS_DISPLAY_DISPLAY_ILI9340_H_
 #include "board_config.h"
 #include <autoconf.h>
-#include <zephyr.h>
+#include <zephyr/zephyr.h>
 
 #define ILI9340_CMD_ENTER_SLEEP 0x10
 #define ILI9340_CMD_EXIT_SLEEP 0x11
